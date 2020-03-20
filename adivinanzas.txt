@@ -12,5 +12,19 @@ Si quieres que te lo diga, espera.
 
 // nueva adivinanza (de Mariela)
 No es reloj, pero hace TIC TAC, no usa pilas pero no para de andar.
+<<<<<<< HEAD
 
 // respuesta a adivinanza de Mariela :  El corazón
+=======
+  una canilla que gotea?? :P
+
+//Una adivinanza clásica (la que la Esfinge le hizo a Edipo):
+
+"¿Cual es el animal que anda 
+en 4 patas al amanecer, 
+en dos durante el día 
+y en 3 al anochecer?"
+
+
+
+>>>>>>> 42ed249eef041576c6520587e1df0b495219ea25
